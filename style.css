@@ -10,3 +10,4 @@
 @media(max-width:600px){.project-row:focus-visible{min-height:160px}.project-row:focus-visible .project-info .project-detail{height:42px;font-size:9px}.project-row:focus-visible .project-preview{display:block;position:static;grid-column:2;grid-row:2;transform:none;width:95px;height:54px;opacity:1;clip-path:inset(0);margin:5px 0 10px}.project-row:focus-visible .project-no,.project-row:focus-visible .project-arrow{align-self:start;margin-top:30px}}
 @media(max-width:600px){.hero h1{font-size:clamp(48px,13.2vw,72px)}}
 @media(max-width:600px){.hero-image{background-size:auto 72%;background-repeat:no-repeat;background-position:60% center}}
+@media(max-width:600px){.hero-image{inset:0;background-size:cover;background-position:58% center;opacity:1}.hero-shade{background:linear-gradient(90deg,#08080e 0%,rgba(8,8,14,.82) 27%,rgba(8,8,14,.4) 52%,rgba(8,8,14,.08) 78%,transparent 100%),linear-gradient(0deg,rgba(8,8,14,.16) 0%,transparent 32%,rgba(8,8,14,.05) 100%)}}
